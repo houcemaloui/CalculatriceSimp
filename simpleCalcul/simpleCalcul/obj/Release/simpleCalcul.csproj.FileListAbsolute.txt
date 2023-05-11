@@ -1,0 +1,9 @@
+C:\Users\HOUCEM\source\repos\simpleCalcul\simpleCalcul\bin\Release\simpleCalcul.exe.config
+C:\Users\HOUCEM\source\repos\simpleCalcul\simpleCalcul\bin\Release\simpleCalcul.exe
+C:\Users\HOUCEM\source\repos\simpleCalcul\simpleCalcul\bin\Release\simpleCalcul.pdb
+C:\Users\HOUCEM\source\repos\simpleCalcul\simpleCalcul\obj\Release\simpleCalcul.csprojAssemblyReference.cache
+C:\Users\HOUCEM\source\repos\simpleCalcul\simpleCalcul\obj\Release\simpleCalcul.Form1.resources
+C:\Users\HOUCEM\source\repos\simpleCalcul\simpleCalcul\obj\Release\simpleCalcul.Properties.Resources.resources
+C:\Users\HOUCEM\source\repos\simpleCalcul\simpleCalcul\obj\Release\simpleCalcul.csproj.GenerateResource.cache
+C:\Users\HOUCEM\source\repos\simpleCalcul\simpleCalcul\obj\Release\simpleCalcul.exe
+C:\Users\HOUCEM\source\repos\simpleCalcul\simpleCalcul\obj\Release\simpleCalcul.pdb
